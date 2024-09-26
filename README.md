@@ -5,6 +5,8 @@ I am a dedicated and innovative individual with a passion for technology and a s
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiruvidhi-revanth)
+[![LinkedIn]( https://img.shields.io/badge/just%20the%20message-8A2BE2)](https://linkedin.com/in/thiruvidhi-revanth)
+
 
 
 # 💻 Tech Stack:
